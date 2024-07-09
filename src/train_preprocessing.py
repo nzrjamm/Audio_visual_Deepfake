@@ -123,6 +123,6 @@ def preprocess_dfdc_data(input_dir, output_dir, frame_rate=1, log_file='processe
                 pass
 
 if __name__ == "__main__":
-    input_dir = r'C:\Users\RIzan\Documents\dfd\dataset\train'  # Adjust this path to your DFDC dataset
-    output_dir = r'C:\Users\RIzan\Documents\dfd\dataset\train_processed'  # Adjust this path to where you want to save processed data
+    input_dir =  # Adjust this path to your DFDC dataset
+    output_dir =  # Adjust this path to where you want to save processed data
     preprocess_dfdc_data(input_dir, output_dir, frame_rate=1, log_file='train_processed_videos.json')
