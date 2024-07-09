@@ -20,7 +20,7 @@ dataset/
 └── train/
     ├── real/ 
     └── fake/
-
+    
 └── Val/
     ├── real/  
     └── fake/
@@ -28,7 +28,7 @@ dataset/
 └── test/
     ├── real/  
     └── fake/
-- **Dataset Link:** The `[DFDC (DeepFake Detection Challenge) dataset]([https://github.com/ondyari/FaceForensics/tree/master/datase](https://www.kaggle.com/c/deepfake-detection-challenge)` 
+- **Dataset Link:** The `[DFDC (DeepFake Detection Challenge) dataset](https://github.com/ondyari/FaceForensics/tree/master/datase](https://www.kaggle.com/c/deepfake-detection-challenge)` 
     
 ###Prepocessing 
 scrtipts of preprocesing is in the src folder.
