@@ -16,15 +16,25 @@ This repository contains code for detecting deepfakes using audio-visual modalit
 
 ### Dataset Structure 
 dataset/
-├── train/
-│   ├── real/
-│   └── fake/
-├── val/
-│   ├── real/
-│   └── fake/
-└── test/
+
+└── train/
+
     ├── real/
+    
     └── fake/
+
+└── Val/
+
+    ├── real/
+    
+    └── fake/
+
+└── test/
+
+    ├── real/
+    
+    └── fake/
+    
 ###Prepocessing 
 scrtipts of preprocesing is in the src folder.
 src/
@@ -32,7 +42,7 @@ src/
 
  ### Training
  Run ptyhon trianing.py file to train the model.
- ## Do the same the testing and val .py files as well.
+ Do the same the testing and val .py files as well.
 
  ### Model Archirecture 
  
