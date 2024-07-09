@@ -1,7 +1,5 @@
 # Audio_visual_Deepfake
 
-# Deepfake Detection Project
-
 ## Introduction
 
 This repository contains code for detecting deepfakes using audio-visual modalities and Vision Transformer (DeiT).
@@ -12,7 +10,7 @@ This repository contains code for detecting deepfakes using audio-visual modalit
 
 1. **Create Conda Environment:**
    ```bash
-   conda create --name dfdetection python=3.8
+   conda create --name dfdetection python=3.12
    conda activate dfdetection
    pip install -r requirements.txt  # or use dfdetection.yml
 
