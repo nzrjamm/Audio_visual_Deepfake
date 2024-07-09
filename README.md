@@ -13,7 +13,8 @@ This repository contains code for detecting deepfakes using audio-visual modalit
    conda create --name dfdetection
    conda activate dfdetection
    pip install -r requirements.txt  # or use dfdetection.yml
-     pip install -r requirements.txt  # or use dfdetection.yml
+   conda env create -f dfdetection.yml
+
    
 
 ### Dataset Structure 
