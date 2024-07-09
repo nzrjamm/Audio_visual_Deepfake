@@ -18,22 +18,17 @@ This repository contains code for detecting deepfakes using audio-visual modalit
 dataset/
 
 └── train/
-
-    ├── real/
-    
+    ├── real/ 
     └── fake/
 
 └── Val/
-
-    ├── real/
-    
+    ├── real/  
     └── fake/
 
 └── test/
-
-    ├── real/
-    
+    ├── real/  
     └── fake/
+- **Dataset Link:** The `[DFDC (DeepFake Detection Challenge) dataset]([https://github.com/ondyari/FaceForensics/tree/master/datase](https://www.kaggle.com/c/deepfake-detection-challenge)` 
     
 ###Prepocessing 
 scrtipts of preprocesing is in the src folder.
