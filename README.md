@@ -13,20 +13,26 @@ This repository contains code for detecting deepfakes using audio-visual modalit
    conda create --name dfdetection
    conda activate dfdetection
    pip install -r requirements.txt  # or use dfdetection.yml
+     pip install -r requirements.txt  # or use dfdetection.yml
+   
 
 ### Dataset Structure 
 dataset/
 
 └── train/
+
     ├── real/ 
     └── fake/
     
 └── Val/
+
     ├── real/  
     └── fake/
 
 └── test/
+
     ├── real/  
+     └── fake/
 
 
 The DFDC dataset is available on Kaggle. You can download it [here](https://www.kaggle.com/c/deepfake-detection-challenge).
