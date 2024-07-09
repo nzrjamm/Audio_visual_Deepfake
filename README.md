@@ -29,7 +29,7 @@ dataset/
     ├── real/  
 
 
-The dataset for this project is available on Kaggle. You can download it [here](https://www.kaggle.com/c/deepfake-detection-challenge).
+The DFDC dataset is available on Kaggle. You can download it [here](https://www.kaggle.com/c/deepfake-detection-challenge).
     
 ###Prepocessing 
 scrtipts of preprocesing is in the src folder.
