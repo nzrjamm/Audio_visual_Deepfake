@@ -48,5 +48,6 @@ src/
  Do the same the testing and val .py files as well.
 
  ### Model Archirecture 
+ Our multi-modal deepfake detection model significantly improves the accuracy of detecting fraudulent activities in financial systems by leveraging both visual and audio features. The use of a Vision Transformer for visual feature extraction and a CNN for audio feature extraction, combined with cross-modal attention and feature fusion, enables our model to detect inconsistencies that are often missed by single-modal methods. This approach not only enhances security but also provides a robust solution to combat financial fraud in the era of advanced deepfake technology
  
 ![Audio_visual_Deepfake](ModelArchitecure.jpg)
